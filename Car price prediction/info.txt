@@ -1,0 +1,6 @@
+In this project we will be learning how to use ML to predict Car price 
+The dataset is Picked from the kaggle : https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+The File contains 8 column: name,year,selling_price,km_driven,fuel,seller_type,transmission,Owner 
+We will be using Linear regression with different variation like lasso regression, Ridgde regression
+
+Flow of project : car data -> Preprocessing -> Train-test split -> model ->  test/ prediction results
